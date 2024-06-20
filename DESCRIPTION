@@ -20,5 +20,5 @@ Depends: R (>= 3.5.0)
 URL: https://klvoje.github.io/evoTS/index.html
 BugReports: https://github.com/klvoje/evoTS/issues
 NeedsCompilation: no
-Packaged: 2024-06-20 07:48:55 UTC; kjetillv
+Packaged: 2024-06-20 09:46:33 UTC; kjetillv
 Author: Kjetil Lysne Voje [aut, cre]
