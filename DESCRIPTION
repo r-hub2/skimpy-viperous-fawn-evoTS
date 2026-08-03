@@ -1,6 +1,6 @@
 Package: evoTS
 Title: Analyses of Evolutionary Time-Series
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: 
     person(given = "Kjetil Lysne",
            family = "Voje",
@@ -14,11 +14,11 @@ Imports: paleoTS (>= 0.4-4), mvtnorm, plotly, pracma, MASS, stats,
 Maintainer: Kjetil Lysne Voje <k.l.voje@nhm.uio.no>
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.1
 Suggests: rmarkdown, knitr
 Depends: R (>= 3.5.0)
 URL: https://klvoje.github.io/evoTS/index.html
 BugReports: https://github.com/klvoje/evoTS/issues
+Config/roxygen2/version: 8.0.0
 NeedsCompilation: no
-Packaged: 2024-06-20 09:46:33 UTC; kjetillv
+Packaged: 2026-08-03 12:08:35 UTC; kjetillv
 Author: Kjetil Lysne Voje [aut, cre]
